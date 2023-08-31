@@ -1,0 +1,20 @@
+{
+  "name": "AngularDemonstration-iyo4lv",
+  "env": "production",
+  "application": {
+    "id": 1693483991,
+    "name": "AngularDemonstration-iyo4lv"
+  },
+  "domain": {
+    "id": 1693487620,
+    "name": "AngularDemonstration-iyo4lv",
+    "url": "bmo7b188x9.map.azionedge.net"
+  },
+  "function": {
+    "id": 10376,
+    "name": "AngularDemonstration-iyo4lv"
+  },
+  "version-id": "20230831134604",
+  "type": "angular",
+  "mode": "deliver"
+}
